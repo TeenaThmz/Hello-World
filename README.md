@@ -1,3 +1,3 @@
 # Hello-World
 Hey Guys, Teena here!
-I would like to learn coding.
+I would like to learn how to code.
